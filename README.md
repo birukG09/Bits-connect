@@ -1,4 +1,4 @@
-# BiTS Connect – Frontend
+# BiTS Connect – Frontend only
 
 A modern educational platform frontend built with **Vite + React + TypeScript + Tailwind CSS**.  
 Designed to help students upload files, track GPA, access blogs, and chat with peers.
